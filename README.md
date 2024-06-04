@@ -52,7 +52,7 @@ weather-data-pipeline/
 ├── weather_consumer.py         # Kafka consumer script
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
-
+```
 #Kafka Zookeeper
 ![Zookeeper](https://github.com/atharva49/Realtime-Weather-Streaming/assets/56105570/b272905c-306f-4b8d-8bce-cdb7537a5eff)
 
