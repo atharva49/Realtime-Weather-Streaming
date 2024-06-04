@@ -64,3 +64,6 @@ weather-data-pipeline/
 
 #Kafka consumer
 ![Consumer](https://github.com/atharva49/Realtime-Weather-Streaming/assets/56105570/65e8cbd0-6797-43df-8dfd-8b0d3f72fb1c)
+
+#Data in MySQL
+![Data](https://github.com/atharva49/Realtime-Weather-Streaming/assets/56105570/474cb7c5-f88e-4dfe-98b9-7ab27652e298)
